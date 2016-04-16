@@ -1,0 +1,13 @@
+{
+    "name": "uchilaka/ci-auth0client",
+    "description": "Library to integrate Auth0 functionality into Auth flow for LarCity projects",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Uche Chilaka",
+            "email": "uche@larcity.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
