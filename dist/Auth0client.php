@@ -1,5 +1,5 @@
 <?php
-namespace Uchilaka\CodeIgniter;
+namespace UChilaka\CodeIgniter;
 
 class Auth0client {
     
